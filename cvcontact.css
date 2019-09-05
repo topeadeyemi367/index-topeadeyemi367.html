@@ -37,9 +37,7 @@ input[type=text], select, textarea {
     cursor: pointer;
   }
   
-  /* When moving the mouse over the submit button, add a darker green color */
-  input[type=submit]: { background-color: #45a049;
-  }
+  
   
   /* Add a background color and some padding around the form */
   .container {
